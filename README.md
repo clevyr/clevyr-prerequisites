@@ -14,4 +14,6 @@ Things to learn before working at Clevyr, Inc.
 - [Git](http://git-scm.com/) Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 - [Github](https://github.com) GitHub is the best place to build software together. Over 4 million people use GitHub to share code.
 - [MEAN](http://mean.io/#!/) Full-Stack JavaScript Using MongoDB, Express, AngularJS, and Node.js.
-- [Mongo](http://www.mongodb.org/) Designed to store data the way your apps do.
+- [MongoDB](http://www.mongodb.org/) Designed to store data the way your apps do.
+- [Node.js](https://nodejs.org/) Node.js® is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications.
+- [Express](http://expressjs.com/) Fast, unopinionated, minimalist web framework for Node.js.
