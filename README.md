@@ -9,6 +9,7 @@ Things to learn before working at Clevyr, Inc.
 - [Angular Material](https://material.angularjs.org/#/) The *Angular Material* project is an implementation of Material Design in Angular.js.
 
 #### Backend Developers
-- [Git and Github](https://github.com)
+- [Git](http://git-scm.com/) Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+- [Github](https://github.com) GitHub is the best place to build software together. Over 4 million people use GitHub to share code.
 - [MEAN](http://mean.io/#!/) Full-Stack JavaScript Using MongoDB, Express, AngularJS, and Node.js.
 - [Mongo](http://www.mongodb.org/)
