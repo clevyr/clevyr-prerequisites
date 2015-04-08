@@ -1,5 +1,5 @@
 # clevyr-prerequisites
-Things to learn before working at Clevyr, Inc.
+Things to learn before (while) working at Clevyr Inc.
 
 #### Frontend Developers
 - [**AngularJS**](https://angularjs.org) - Superheroic JavaScript MVW Framework 
