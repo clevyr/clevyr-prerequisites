@@ -3,7 +3,7 @@ Things to learn before working at Clevyr, Inc.
 
 #### Frontend Developers
 - [AngularJS](https://angularjs.org) Superheroic JavaScript MVW Framework 
--[Bootstrap](http://getbootstrap.com)
+- [Bootstrap](http://getbootstrap.com)
 - [Material Design](http://www.google.com/design/spec/material-design/introduction.html)
 
 #### Backend Developers
