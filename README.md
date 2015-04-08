@@ -17,3 +17,7 @@ Things to learn before working at Clevyr, Inc.
 - [MongoDB](http://www.mongodb.org/) Designed to store data the way your apps do.
 - [Node.js](https://nodejs.org/) Node.js® is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications.
 - [Express](http://expressjs.com/) Fast, unopinionated, minimalist web framework for Node.js.
+- [Fat-Free Framework](http://fatfreeframework.com/home) A powerful yet easy-to-use PHP micro-framework designed to help you build dynamic and robust web applications - fast!
+- [moment.js](http://momentjs.com/) Parse, validate, manipulate, and display dates in JavaScript.
+- [PHP](http://php.net/) PHP is a popular general-purpose scripting language that is especially suited to web development.
+- 
