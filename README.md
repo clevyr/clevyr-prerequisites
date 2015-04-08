@@ -5,6 +5,8 @@ Things to learn before working at Clevyr, Inc.
 - [AngularJS](https://angularjs.org) Superheroic JavaScript MVW Framework 
 - [Bootstrap](http://getbootstrap.com)
 - [Material Design](http://www.google.com/design/spec/material-design/introduction.html)
+- [Lumx](http://ui.lumapps.com/)
+- [Angular Material](https://material.angularjs.org/#/)
 
 #### Backend Developers
 - [Git and Github](https://github.com)
