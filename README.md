@@ -20,4 +20,3 @@ Things to learn before working at Clevyr, Inc.
 - [Fat-Free Framework](http://fatfreeframework.com/home) A powerful yet easy-to-use PHP micro-framework designed to help you build dynamic and robust web applications - fast!
 - [moment.js](http://momentjs.com/) Parse, validate, manipulate, and display dates in JavaScript.
 - [PHP](http://php.net/) PHP is a popular general-purpose scripting language that is especially suited to web development.
-- 
