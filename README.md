@@ -21,6 +21,7 @@ Things to learn before (while) working at Clevyr Inc.
 - [**moment.js**](http://momentjs.com/) - Parse, validate, manipulate, and display dates in JavaScript.
 - [**PHP**](http://php.net/) - PHP is a popular general-purpose scripting language that is especially suited to web development.
 - [**PhoneGap**](http://phonegap.com/) - Easily create apps using the web technologies you know and love: HTML, CSS, and JavaScript.
+- [**Seneca**](http://senecajs.org/) - A Micro-Services toolkit for Node.js.
 
 #### More goodies...
 - [Clevyr Goodies] (https://github.com/clevyr/clevyr-goodies) - A list of tools and apps we love.
